@@ -190,10 +190,6 @@ BS Computer Science
 
 Machine Learning Enthusiast
 
-GitHub: *(Add your GitHub profile link here)*
-
-LinkedIn: *(Add your LinkedIn profile link here)*
-
 ---
 
 ## ⭐ If you found this project helpful, consider giving it a Star on GitHub.
